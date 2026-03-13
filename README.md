@@ -3,7 +3,8 @@
 > A modern, professional IT company website built with React.js and Tailwind CSS.
 
 ## 🌐 Live Demo
-[https://landminesoft.vercel.app](https://landminesoft.vercel.app) *(deploy to Vercel/Netlify)*
+https://lindmin-nd5iyv5j4-pavan26082003s-projects.vercel.app/
+*(deploy to Vercel/Netlify)*
 
 ---
 
